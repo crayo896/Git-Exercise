@@ -47,5 +47,4 @@ Revision control gives us the confidence to move forward, because we can always 
 
 🎬 5. Video Lecture
 
-
 [![Git and GitHub Lecture](https://img.youtube.com/vi/alfmHTYsEU4/0.jpg)](https://www.youtube.com/watch?v=alfmHTYsEU4)
