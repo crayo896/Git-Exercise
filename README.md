@@ -24,12 +24,12 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Thipphraephan Dauychote
+Email: 6730195521@student.chula.ac.th
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+ 
 
 🎞️ 3. Animation
 
