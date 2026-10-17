@@ -28,15 +28,17 @@ Name: Thipphraephan Dauychote
 Email: 6730195521@student.chula.ac.th
 
 🖼️ 2. Picture
-
+![Quote](./Picture/Quote.jpg)
  
 
 🎞️ 3. Animation
+![Git Animation](./Animation/GITGIFa.gif)
+![Git Animation](./Animation/GITGIF(1).gif)
 
-*** Place GITGIF.* here *** 
 
 💬 4. Quote
+Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked.
 
-*** Read and Place TEXT from Quote.* here  ***
 
 🎬 5. Video Lecture
+[![Git and GitHub Lecture](https://img.youtube.com/vi/alfmHTYsEU4/0.jpg)](https://www.youtube.com/watch?v=alfmHTYsEU4)
